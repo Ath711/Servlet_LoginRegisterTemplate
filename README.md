@@ -8,7 +8,7 @@ This is a simple login and registration template built with Java Servlets, Postg
 
 ![Screenshot 2023-12-31 134828](https://github.com/Ath711/Servlet_LoginRegisterTemplate/assets/142080233/88d39edf-315f-4a1b-b89b-9cbcc88a2009)
 
-![Uploading Screenshot 2023-12-31 134852.png…]()
+![Screenshot 2023-12-31 134852](https://github.com/Ath711/Servlet_LoginRegisterTemplate/assets/142080233/c3dd1908-9176-4f07-8605-4e8d3da97256)
 
 ![Screenshot 2023-12-31 134919](https://github.com/Ath711/Servlet_LoginRegisterTemplate/assets/142080233/e07782a8-dc12-4813-b83e-fc6aec91ecb0)
 
